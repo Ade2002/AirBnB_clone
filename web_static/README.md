@@ -8,11 +8,9 @@ chmod u+x 103-rating_genres.sql && git add --chmod=+x 103-rating_genres.sql && g
 
 && git push
 
-chmod u+x 0-index.html && git add --chmod=+x 0-index.html && git commit -m 'Task 00 -- creates the table force_name on your MySQL server 0-index.html'
+chmod u+x 1-index.html && git add --chmod=+x 1-index.html && git commit -m 'Task 00 -- creates the table force_name on your MySQL server 1-index.html' && git push
 
-&& git push
-
-touch 0-index.html && git add . && git commit -m 0-index.html
+touch 1-index.html && git add . && git commit -m 1-index.html
 
 
 chmod u+x 103-magic_class.py && git add --chmod=+x 103-magic_class.py && git commit -m 'Advanced Task 10 Write the Python class MagicClass that does exactly the same as the following Python bytecode: 103-magic_class.py ' && git push
