@@ -82,7 +82,5 @@ All the code is tested with the **unittest** module.
 The test for the classes are in the [test_models](./tests/test_models/) folder.
 
 ## Contributors
-
-- Hanif Miyanji <hanifanwar380@gmail.com>
-- Otitoola Olufolabi <otitoola.olufolabi@gmail.com>
+Sikiru Ademola <sikirusulaimon2002@gmail.com>
 # web_static
