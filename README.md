@@ -85,3 +85,4 @@ The test for the classes are in the [test_models](./tests/test_models/) folder.
 
 - Hanif Miyanji <hanifanwar380@gmail.com>
 - Otitoola Olufolabi <otitoola.olufolabi@gmail.com>
+# web_static
