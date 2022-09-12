@@ -8,7 +8,7 @@ chmod u+x 103-rating_genres.sql && git add --chmod=+x 103-rating_genres.sql && g
 
 && git push
 
-chmod u+x 0-index.html && git add --chmod=+x 0-index.html && git commit -m 'Task 03 -- creates the table force_name on your MySQL server 0-index.html'
+chmod u+x 0-index.html && git add --chmod=+x 0-index.html && git commit -m 'Task 00 -- creates the table force_name on your MySQL server 0-index.html'
 
 && git push
 
