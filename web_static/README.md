@@ -4,7 +4,7 @@ chmod u+x 10-check_cycle.c && git add --all && git commit -m 'task 10 Write a fu
 
 chmod u+x lists.h && git add --chmod=+x lists.h && git commit -m 'header file lists.h' && git push
 
-chmod u+x 101-places.css && git add --chmod=+x 101-places.css && git commit -m 'Advanced Task 101 Flexible boxes 101-places.css'
+chmod u+x 101-places.css && git add --chmod=+x 101-places.css && git commit -m 'Advanced Task 101 responsive design 101-places.css'
 
 && git push
 
