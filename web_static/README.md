@@ -8,10 +8,10 @@ chmod u+x 103-rating_genres.sql && git add --chmod=+x 103-rating_genres.sql && g
 
 && git push
 
-chmod u+x 4-index.html && git add --chmod=+x 4-index.html && git commit -m 'Task 03 an HTML page that displays a header, footer and a filters box with a search button. 4-index.html'
+chmod u+x 4-filters.css && git add --chmod=+x 4-filters.css && git commit -m 'Task 03 an HTML page that displays a header, footer and a filters box with a search button. 4-filters.css'
  && git push
 
-touch 4-index.html && git add . && git commit -m 4-index.html
+touch 4-filters.css && git add . && git commit -m 4-filters.css
 
 
 chmod u+x 103-magic_class.py && git add --chmod=+x 103-magic_class.py && git commit -m 'Advanced Task 10 Write the Python class MagicClass that does exactly the same as the following Python bytecode: 103-magic_class.py ' && git push
