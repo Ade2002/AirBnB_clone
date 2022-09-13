@@ -1,0 +1,19 @@
+footer {
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    height: 60px;
+    width: 100%;
+    align-items: stretch;
+    justify-content: center;
+    position: fixed;
+    bottom: 0;
+    border-top: 1px solid #cccccc;
+}
+
+.footerText {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    font-weight: bold;
+}
