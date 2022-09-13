@@ -8,7 +8,7 @@ chmod u+x 103-rating_genres.sql && git add --chmod=+x 103-rating_genres.sql && g
 
 && git push
 
-chmod u+x 3-index.html && git add --chmod=+x 3-index.html && git commit -m 'Task 03 an HTML page that displays a header and a footer by using CSS files (same as 1-index.html) 3-index.html'
+chmod u+x 3-index.html && git add --chmod=+x 3-index.html && git commit -m 'Task 03 an HTML page that displays a header and a footer by using CSS files (same as 2-index.html) 3-index.html'
  && git push
 
 touch 3-index.html && git add . && git commit -m 3-index.html
