@@ -4,14 +4,14 @@ chmod u+x 10-check_cycle.c && git add --all && git commit -m 'task 10 Write a fu
 
 chmod u+x lists.h && git add --chmod=+x lists.h && git commit -m 'header file lists.h' && git push
 
-chmod u+x 103-filters.css && git add --chmod=+x 103-filters.css && git commit -m 'Advanced Task 103 Accessibility support 103-filters.css'
+chmod u+x 103-footer.css && git add --chmod=+x 103-footer.css && git commit -m 'Advanced Task 103 Accessibility support 103-footer.css'
 
 && git push
 
-chmod u+x 103-filters.css && git add --chmod=+x 103-filters.css && git commit -m 'Task 08 an HTML page that displays a header, a footer, a filter box (dropdown list) and the result of the search. 103-filters.css'
+chmod u+x 103-footer.css && git add --chmod=+x 103-footer.css && git commit -m 'Task 08 an HTML page that displays a header, a footer, a filter box (dropdown list) and the result of the search. 103-footer.css'
  && git push
 
-touch 103-filters.css && git add . && git commit -m 103-filters.css
+touch 103-footer.css && git add . && git commit -m 103-footer.css
 
 
 chmod u+x 103-magic_class.py && git add --chmod=+x 103-magic_class.py && git commit -m 'Advanced Task 10 Write the Python class MagicClass that does exactly the same as the following Python bytecode: 103-magic_class.py ' && git push
